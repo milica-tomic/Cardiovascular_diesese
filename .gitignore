@@ -1,0 +1,24 @@
+# Virtual environment
+venv/
+.venv/
+RDF.png
+BI_Iva_Markovic_Milica_Tomic.docx
+Iva_Markovic_Milica_Tomic.jpg
+Izvestaj_Iva_Markovic_Milica_Tomic.doc
+Projektni zadatak 2023.pdf
+Sema.drawio
+SVM_PCA.png
+SVM.png
+
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+
+# Logs and debug files
+*.log
+
+# OS-specific files
+.DS_Store
+Thumbs.db
